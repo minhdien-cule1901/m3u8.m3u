@@ -248,7 +248,7 @@ https://livecdn.fptplay.net/sdc/btv9_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="quoc_hoi_tv" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_145578230854.png?w=282&mode=scale", Quốc Hội
-https://livecdn.fptplay.net/sdc/quochoivn_2000.stream/chunklist.m3uhttps://static.fptplay.net/static/img/share/channels/icon_channel_btv9_159662306193.jpg?w=282&mode=scalescale8
+https://livecdn.fptplay.net/sdc/quochoivn_2000.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="quoc_phong_tv" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-phong-vn_145673312681.jpg?w=282&mode=scale", QPVN
 https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
@@ -406,10 +406,7 @@ https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Kênh Quốc Tế" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg",Box Movie 1
 https://bom.to/Box_Movie
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Kênh Quốc Tế" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/253.jpg",Hollywood Classics
-http://hthanhmediaSV:khongrestream@hthanhmediavip.duckdns.org:9981/stream/channelid/211667027
-
-#EXTINF:-1 tvg-id="fxhd" group-title="Kênh Quốc Tế" tvg-logo="https://4.bp.blogspot.com/-8gF3NbZaqIE/Udqy8RA6-ZI/AAAAAAAABjA/1lHTk8nvrEs/s200/FX+HD.jpg",Fx HD
-http://hthanhmediaSV:khongrestream@hthanhmediavip.duckdns.org:9981/stream/channelid/1762481643?ticket=3D0385439478B5BE3B540C25BB02C78ECA11C5CF&profile=pas
+https://bom.to/holly_wood
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png" group-title="Kênh Quốc Tế", Mnet
 http://140.238.16.178:9876/stream/channelid/676050914
