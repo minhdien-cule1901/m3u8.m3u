@@ -190,7 +190,7 @@ https://livecdn.fptplay.net/hda/htv7hd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv9" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv9-hd_146841310555.jpg?w=282&mode=scale" group-title="HTV", HTV9
 https://livecdn.fptplay.net/hda/htv9hd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv_the_thao" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_156455550438.jpg?w=282&mode=scale" group-title="HTV", HTV Thể Thao
-https://hni-vnpt-002-livecdn-vthcm-vnd.vieon.vn/2321c971bce8ab26d27932efbfd93b12/1614000873035/htv_drm/live/htv_the_thao/TV_HD/htv_the_thao_1080p/chunks.m3u8
+https://bom.to/htv_the_thao
 #EXTINF:-1 tvg-id="htvc_phim_hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_paramount-channel-vietnam_153613137177.png?w=282&mode=scale" group-title="HTV", HTVC Phim
 https://livecdn.fptplay.net/hda/htvcmoviehd_2000.stream/chunklist.m3u8
 
@@ -205,11 +205,11 @@ https://livecdn.fptplay.net/hda/htvcthuanviet_2000.stream/chunklist.m3u8
 https://bom.to/htv_thuanviet_hd
 
 #EXTINF:-1 type="stream" tvg-id="htvc_ca_nhac" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-ca-nhac_159175079096.png?w=282&mode=scale" group-title="HTV", HTVC CA NHAC
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=cd0cf539-10e8-49dc-9cd8-f2e638c50927
+https://bom.to/htv_ca_nhac
 #EXTINF:-1 type="stream" tvg-id="htvc_plus_hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png?w=282&mode=scale" group-title="HTV", HTVC+
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=158f2514-6c7d-4507-945a-d85fc1d0b421
+https://bom.to/htvc_plus
 #EXTINF:-1 type="stream" tvg-id="htvc_du_lich_cuoc_song" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_150055164332.jpg?w=282&mode=scale" group-title="HTV", Du Lịch và Cuộc Sống
-http://222.254.253.115:8888/HThanhVieon/get_vieon.php?id=3caf95f9-bdf0-4329-9e2a-e6fe7a0b00ec
+https://bom.to/duLich_cuocsong
 #EXTINF:-1 tvg-id="htvc_fbnc" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg?w=282&mode=scale" group-title="HTV", FBNC
 https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvc_coop" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv-coop_153320008724.png?w=282&mode=scale" group-title="HTV", HTV CO.OP
@@ -404,7 +404,7 @@ https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Kênh Quốc Tế" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg",Box Movie 1
-http://hthanhmediaSV:khongrestream@hthanhmediavip.duckdns.org:9981/stream/channelid/1534929035
+https://bom.to/Box_Movie
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Kênh Quốc Tế" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/253.jpg",Hollywood Classics
 http://hthanhmediaSV:khongrestream@hthanhmediavip.duckdns.org:9981/stream/channelid/211667027
 
