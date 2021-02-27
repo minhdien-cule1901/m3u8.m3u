@@ -406,14 +406,17 @@ https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Kênh Quốc Tế" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg",Box Movie 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://bom.to/Box_Movie
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Kênh Quốc Tế" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/253.jpg",Hollywood Classics
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://bom.to/holly_wood
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png" group-title="Kênh Quốc Tế", Mnet
 http://140.238.16.178:9876/stream/channelid/676050914
 
+#EXTINF:-1 tvg-logo="https://mytv.com.vn/upload/channel/178.png" group-title="Cartoon-Kids",Disney Channel HD
+http://gg.gg/disney_channel
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="Cartoon-Kids",Disney Junior
+http://gg.gg/disney_channel
 
