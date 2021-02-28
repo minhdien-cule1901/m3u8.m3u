@@ -211,11 +211,11 @@ https://bom.to/htvc_plus
 #EXTINF:-1 type="stream" tvg-id="htvc_du_lich_cuoc_song" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_150055164332.jpg?w=282&mode=scale" group-title="HTV", Du Lịch và Cuộc Sống
 https://bom.to/duLich_cuocsong
 #EXTINF:-1 tvg-id="htvc_fbnc" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg?w=282&mode=scale" group-title="HTV", FBNC
-https://livecdn.fptplay.net/sdc/fbnchd_2000.smil/chunklist.m3u8
+https://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvc_coop" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv-coop_153320008724.png?w=282&mode=scale" group-title="HTV", HTV CO.OP
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-480p/chunks.m3u8
 #EXTINF:-1 tvg-id="htvc_vgs_shop" tvg-logo="" group-title="HTV", HTVC VGS SHOP
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-480p/chunks.m3u8
 
 #EXTINF:0 tvg-id="thvl1" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thvl1_156455587276.jpg?w=282&mode=scale", THVL1
 https://livecdn.fptplay.net/hda/vinhlong1_2000.stream/chunklist.m3u8
