@@ -50,8 +50,8 @@ https://livecdn.fptplay.net/sdc/vtc14_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/sdb/vtc16_2000.stream/chunklist.m3u8
 
 #EXTINF:0 tvg-id="vtvcab1_giai_tri_tv"" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/184/VTVcab1-Viegiaitri.jpg", VTVCab1
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD_new1.smil/chunklist_w2020701143_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD_new1.smil/chunklist_w2020701143_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+http://gg.gg/Veion_vtvcab1
 
 #EXTINF:0 tvg-id="vtvcab2_phim_viet" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/180/vtvcab2-PhimViet.png", VTVCab2
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD_new1.smil/chunklist_w19281504_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
@@ -84,8 +84,8 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab9_SD_new1.smil/chunklist_w1344
 
 
 #EXTINF:0 tvg-id="vtvcab7_vie_dramas" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/175/VTVcab10-VieDramas.jpg", VTVCab10
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab10_SD_new1.smil/chunklist_w1236905978_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
+#https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab10_SD_new1.smil/chunklist_w1236905978_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+http://gg.gg/vieon_dramas_hd
 
 #EXTINF:0 tvg-id="vtvcab12_style_tv" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/176/VTVcab12-STYLETV.png", VTVCab12
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab12_SD_new1.smil/chunklist_w984603859_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
