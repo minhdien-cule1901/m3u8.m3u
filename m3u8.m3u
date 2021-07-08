@@ -127,39 +127,51 @@ http://gg.gg/_sctv11_hd
 http://gg.gg/_sctv12_hd
 
 #EXTINF:0 tvg-id="sctv13_lady_tv" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/114/logo26072108_sctv13-hd.png", SCTV13
-https://vtsstr1.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
+#https://vtsstr1.tv24.vn/live/SCTVHDPhunuGiadinh_4/chunklist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+http://gg.gg/_sctv13_hd
 
 #EXTINF:0 tvg-id="sctv14_kenh_phim_viet" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/84/logo26072108_sctv14-hd.png", SCTV14
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_PhimViet_new.smil/chunklist_w551712292_b2692000.m3u8?uid=s2c526m574z5s4l5h4&t_end=o4i5u5h514442354v27484v2w233z2&p_form=s335l4x4f3&s_count=s335l4x4f3e5y2&mytokenstarttime=1612663459&cre=ChungXDA&mytokenhash=kmPuzDoknHBVplFxoMEAj4o6iMpQfkbbcO8GMkEQfrY=
+#http://112.197.12.54/hls/sctv14/sd1/index.m3u8
+http://gg.gg/_sctv14_hd
 
 #EXTINF:-1 tvg-id="sctv15_s_sport_2" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/22/logo26072108_sctv15-hd.png", SCTV15 HD - Ssport 2
-https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_TheThao_new.smil/chunklist_w621571224_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#http://112.197.12.54/hls/sctv15/sd1/index.m3u8
+http://gg.gg/_sctv15_hd
 
 #EXTINF:0 tvg-id="sctv16" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/110/logo26072108_sctv16-hd.png", SCTV16
-https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV_HD_phimnuocngoaidacsac_new1.smil/chunklist_w1496802519_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50%3D
-
+#http://112.197.12.54/hls/sctv16/sd1/index.m3u8
+http://gg.gg/_sctv16_hd
 
 #EXTINF:0 tvg-id="sctv17_hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/14/logo26072108_sctv17-hd.png", SCTV 17
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV17_HD_new.smil/chunklist_w396580455_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#http://112.197.12.54/hls/sctv17/sd1/index.m3u8
+http://gg.gg/_sctv17_hd
 
 #EXTINF:0 tvg-id="sctv18_hd_kenh_18" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/164/logo26072108_sctv18-hd.png", SCTV18
-https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV18_HD.smil/chunklist_w1127383344_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#https://vtsstr6.tv24.vn/live/_definst_/SCTV18_HD_new.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+http://gg.gg/_sctv18_hd
 
 #EXTINF:0 tvg-id="sctv19" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/222/logo26072108_sctv19-hd.png", SCTV19
-https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV19_HD.smil/chunklist_w792555088_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#https://vtsstr6.tv24.vn/live/SCTV19_HD_new.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+http://gg.gg/_sctv19_hd
 
 #EXTINF:0 tvg-id="-1" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/233/logo26072108_sctv20-hd.png", SCTV20
-https://vtsstr6.tv24.vn/live/_definst_/smil:SCTV20_HD.smil/chunklist_w988514971_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#https://vtsstr6.tv24.vn/live/SCTV20_HD_new.smil/chunklist_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+http://gg.gg/_sctv20_hd
 
 #EXTINF:0 tvg-id="sctv_phim_tong_hop" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/108/logo26072108_sctv-phimTHHD.png", Phim Tổng Hợp
-https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_w35929255_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#http://112.197.12.54/hls/sctvphimtonghop/sd1/index.m3u8
+http://gg.gg/_sctvphimtonghop_hd
+
+#EXTINF:0 tvg-id="sctv21" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/242/s21-hd.jpg", SCTV 21
+#http://112.197.12.54/hls/sctvphimtonghop/sd1/index.m3u8
+http://gg.gg/_sctv21_hd
 
 #EXTINF:-1 tvg-id="SCTV22" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/241/sctv22-hd.png", SCTV22 HD - Ssport 1
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:SCTV22_HD_new.smil/chunklist_w1133343905_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#http://112.197.12/54/hls/sctv22/sd1/index.m3u8
+http://gg.gg/_sctv22_hd
 
 #EXTINF:-1 tvg-id="BTV5" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/119/logo26072108_BTV5-HD.png", BTV5 HD - Ssport 3
-https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new.smil/chunklist_w1329716238_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+#https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD_new.smil/chunklist_w1329716238_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv1_145672763786.jpg?w=282&mode=scale" group-title="HTV", HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist.m3u8
