@@ -350,6 +350,12 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="cartoon_network" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png?w=282&mode=scale", Cartoon Network
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_hls.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="Cbeebies" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/PYK3X5y/CBeebies-BEARTV.png", Cbeebies
+https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="Animax" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/6BW91H3/Animax-BEARTV.png", Animax
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist.m3u8
+
 #EXTINF:0 tvg-id="cinema_world_hd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png?w=282&mode=scale", Cinema World
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="da_vinci_kids" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png?w=282&mode=scale", Da Vinci
@@ -391,16 +397,15 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="warner_tv_hd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png?w=282&mode=scale", Warner TV
 https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="-1" group-title="Kênh Quốc Tế" tvg-logo="https://img.hplus.com.vn/460x260/poster/2020/08/03/744316-Paramount-xanh-fix.png", Paramount
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="-1" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png?w=282&mode=scale", HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
 #EXTINF:-1 tvg-id="-1" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_158830569489.png?w=282&mode=scale", Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-
-
-#EXTINF:0 tvg-id="Cbeebies" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/PYK3X5y/CBeebies-BEARTV.png", Cbeebies
-https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="Animax" group-title="Kênh Quốc Tế" tvg-logo="https://i.ibb.co/6BW91H3/Animax-BEARTV.png", Animax
-https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Kênh Quốc Tế" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg",Box Movie 1
 http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/playlist.m3u8
