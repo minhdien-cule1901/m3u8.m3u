@@ -163,7 +163,7 @@ http://gg.gg/_sctv20_hd
 http://gg.gg/_sctvphimtonghop_hd
 
 #EXTINF:0 tvg-id="sctv21" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/242/s21-hd.jpg", SCTV 21
-#http://112.197.12.54/hls/sctvphimtonghop/sd1/index.m3u8
+#http://112.197.12.54/hls/sctv21/sd1/index.m3u8
 http://gg.gg/_sctv21_hd
 
 #EXTINF:-1 tvg-id="SCTV22" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/241/sctv22-hd.png", SCTV22 HD - Ssport 1
@@ -196,16 +196,17 @@ http://gg.gg/_htv_giadinh
 #EXTINF:-1 type="stream" tvg-id="htvc_phu_nu" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-phu-nu_150055168062.jpg?w=282&mode=scale" group-title="HTV", Phụ Nữ
 http://gg.gg/_htv_phunu
 #EXTINF:-1 type="stream" tvg-id="htvc_thuan_viet" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-sd_150055171588.jpg?w=282&mode=scale" group-title="HTV", Thuần Việt
-https://livecdn.fptplay.net/hda/htvcthuanviet_hls.smil/chunklist.m3u8
+http://gg.gg/_htv_thuanviet
+
 #EXTINF:-1 type="stream" type="stream" tvg-id="htvc_thuan_viet_hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_150055170596.jpg?w=282&mode=scale" group-title="HTV", Thuần Việt HD
-http://gg.gg/htv_thuanviet_hd
+http://gg.gg/_htv_thuanviet_hd
 
 #EXTINF:-1 type="stream" tvg-id="htvc_ca_nhac" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-ca-nhac_159175079096.png?w=282&mode=scale" group-title="HTV", HTVC CA NHAC
-http://gg.gg/htv_ca_nhac
+http://gg.gg/_htv_ca_nhac
 #EXTINF:-1 type="stream" tvg-id="htvc_plus_hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png?w=282&mode=scale" group-title="HTV", HTVC+
-http://gg.gg/htvc_plus
+http://gg.gg/_htvc_plus
 #EXTINF:-1 type="stream" tvg-id="htvc_du_lich_cuoc_song" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_150055164332.jpg?w=282&mode=scale" group-title="HTV", Du Lịch và Cuộc Sống
-http://gg.gg/duLich_cuocsong
+http://gg.gg/_duLich_cuocsong
 #EXTINF:-1 tvg-id="htvc_fbnc" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg?w=282&mode=scale" group-title="HTV", FBNC
 https://livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvc_coop" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv-coop_153320008724.png?w=282&mode=scale" group-title="HTV", HTV CO.OP
@@ -388,7 +389,7 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="national_geographic" group-title="Kênh Quốc Tế" tvg-logo="https://img.hplus.com.vn/460x260/poster/2019/07/16/198549-nat_geo_wild.png", National Geographic
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="outdoor_channel" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg?w=282&mode=scale", Outdoor Channel
@@ -399,7 +400,8 @@ https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="-1" group-title="Kênh Quốc Tế" tvg-logo="https://img.hplus.com.vn/460x260/poster/2020/08/03/744316-Paramount-xanh-fix.png", Paramount
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+http://gg.gg/_paramount_hd
 
 #EXTINF:-1 tvg-id="-1" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png?w=282&mode=scale", HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
@@ -408,4 +410,5 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Kênh Quốc Tế" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg",Box Movie 1
-http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/playlist.m3u8
+http://gg.gg/Box_Movie
+
