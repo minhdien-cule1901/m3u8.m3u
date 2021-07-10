@@ -34,7 +34,7 @@ https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc7_today_tv" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc7-todaytv_145673310065.jpg?w=282&mode=scale" group-title="VTC", VTC7 Today TV
 https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC8" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc8_151489105074.png?w=282&mode=scale" group-title="VTC", VTC8
-https://livecdn.fptplay.net/sdb/vtc8_smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc9_lets_viet" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc9_151496638696.png?w=282&mode=scale" group-title="VTC", VTC9
 https://livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC10" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc10_151489106288.png?w=282&mode=scale" group-title="VTC", VTC10
@@ -42,11 +42,11 @@ https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtc11_kids_tv" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_146293779839.png?w=282&mode=scale" group-title="VTC", VTC11 Kids TV
 https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC12" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc12_151489107617.png?w=282&mode=scale" group-title="VTC", VTC12
-https://livecdn.fptplay.net/sdb/vtc12_hls,smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="VTC13" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc13-hd_151489108997.png?w=282&mode=scale" group-title="VTC", VTC13
-https://livecdn.fptplay.net/sdc/vtc13_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdc/vtc13_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTC14" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc14-hd_151489110373.png?w=282&mode=scale" group-title="VTC", VTC14
-https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="VTC16" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_158549798865.png?w=282&mode=scale" group-title="VTC", VTC16
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
