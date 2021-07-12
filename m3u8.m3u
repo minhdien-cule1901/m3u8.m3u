@@ -408,4 +408,4 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Kênh Quốc Tế" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg", Box Movie
-http://gg.gg/Box_Movie
+http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist_w731780655_b2692000.m3u8
