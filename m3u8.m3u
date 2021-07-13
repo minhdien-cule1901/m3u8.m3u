@@ -198,7 +198,7 @@ http://112.197.12.54/hls/sctvphimtonghop/sd1/index.m3u8
 http://112.197.12.54/hls/sctv21/sd1/index.m3u8
 
 #EXTINF:-1 tvg-id="SCTV22" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/241/sctv22-hd.png", SCTV22 HD - Ssport 1
-http://112.197.12/54/hls/sctv22/sd1/index.m3u8
+http://112.197.12.54/hls/sctv22/sd1/index.m3u8
 
 #EXTINF:-1 tvg-id="BTV5" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/119/logo26072108_BTV5-HD.png", BTV5 HD - Ssport 3
 http://112.197.12.58/hls/btv5/sd1/index.m3u8
