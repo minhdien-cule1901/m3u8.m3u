@@ -367,7 +367,7 @@ https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="Animax" group-title="Cartoon Kids" tvg-logo="https://i.ibb.co/6BW91H3/Animax-BEARTV.png", Animax
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="Happy_Kids" group-title="Cartoon Kids" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068739769.png", Happy Kids
+#EXTINF:-1 tvg-id="Happy_Kids" group-title="Cartoon Kids" tvg-logo="https://static-stage.tv24.vn/channel/247/Kids_new.jpg", Happy Kids
 http://vtsstr1.tv24.vn:1935/live/Happy_Kids.smil/chunklist_w842921642_b2692000.m3u8??uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 
 #EXTINF:0 tvg-id="cinema_world_hd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png?w=282&mode=scale", Cinema World
@@ -433,7 +433,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Kênh Quốc Tế" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg",Box Movie 1
 http://gg.gg/Box_Movie
 
-#EXTINF:-1 tvg-id="Hollywood Classics" group-title="Kênh Quốc Tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068836041.png", Hollywood Classic
+#EXTINF:-1 tvg-id="Hollywood Classics" group-title="Kênh Quốc Tế" tvg-logo="https://static-stage.tv24.vn/channel/246/Hollywood_new.jpg", Hollywood Classic
 http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/chunklist_w1491164742_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 
 
