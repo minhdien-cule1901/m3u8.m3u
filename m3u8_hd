@@ -235,13 +235,13 @@ https://livecdn.fptplay.net/hda2/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="-1" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-1_156455530625.jpg?w=282&mode=scale", Bình Dương 1
-https://livecdn.fptplay.net/hda/btv1_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="-1" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-2_156455531275.jpg?w=282&mode=scale", Bình Dương 2
-https://livecdn.fptplay.net/hda/btv2_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="-1" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-4-hd_146312577314.png?w=282&mode=scale", Bình Dương 4
-https://livecdn.fptplay.net/hda/btv4hd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/btv4hd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="btv6_viet_teen" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv6_158573005113.png?w=282&mode=scale", BTV6
 https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
@@ -354,9 +354,9 @@ https://livecdn.fptplay.net/hda2/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="bbc_lifestyle" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg?w=282&mode=scale", BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="blue_ant_entertainment" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-entertainment_154850587839.jpg?w=282&mode=scale", Blue Ant Entertainment
-https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda1/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="blue_ant_extreme" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-extreme_154850781484.jpg?w=282&mode=scale", Blue Ant Extreme
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda1/blueantext_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="Bomerang" group-title="Cartoon Kids" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png?w=282&mode=scale", Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
@@ -381,8 +381,10 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="fashion_tv" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_146580821688.png?w=282&mode=scale", Fashion TV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:0 tvg-id="fox_family_movies" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-family-movies_155013312413.jpg?w=282&mode=scale", Fox Family Movies
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:0 tvg-id="fox" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-hd_152238767588.png?w=282&mode=scale", Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="fox_life" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png?w=282&mode=scale", Fox Life
