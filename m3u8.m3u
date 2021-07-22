@@ -245,16 +245,16 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-480p/chunks.m3u8
 
 #EXTINF:0 tvg-id="thvl1" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thvl1_156455587276.jpg?w=282&mode=scale", THVL1
-https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="thvl2" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_15645558841.jpg?w=282&mode=scale", THVL2
 https://livecdn.fptplay.net/hda2/vinhlong2_hls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="thvl3" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-3_156455588941.jpg?w=282&mode=scale", THVL3
-https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda3/vinhlong3_hls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="-1" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-4-hd_158382617523.png?w=282&mode=scale", THVL4
-https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="-1" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-1_156455530625.jpg?w=282&mode=scale", Bình Dương 1
 https://livecdn.fptplay.net/hda/btv1_hls.smil/chunklist.m3u8
