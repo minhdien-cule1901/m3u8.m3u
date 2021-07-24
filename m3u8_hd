@@ -406,7 +406,7 @@ https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="Happy_Kids" group-title="Cartoon Kids" tvg-logo="https://static-stage.tv24.vn/channel/247/Kids_new.jpg", Happy Kids
-http://vtsstr1.tv24.vn:1935/live/Happy_Kids.smil/chunklist_w842921642_b2692000.m3u8??uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+http://gg.gg/_Happy_Kids_
 
 #EXTINF:0 tvg-id="cinema_world_hd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png?w=282&mode=scale", Cinema World
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
@@ -455,8 +455,7 @@ https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="Planet Earth" group-title="Kênh Quốc Tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068769029.png", Planet Earth
-http://vtsstr1.tv24.vn:1935/live/Planet_Earth.smil/chunklist_w40470223_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
-
+http://gg.gg/_Planet_Earth_
 
 #EXTINF:0 tvg-id="outdoor_channel" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg?w=282&mode=scale", Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
@@ -472,14 +471,14 @@ https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
 http://gg.gg/_paramount_hd
 
 #EXTINF:-1 tvg-id="-1" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png?w=282&mode=scale", HBO
-https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b1200000.m3u8
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="-1" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png?w=282&mode=scale", HBO_ASIA
 #EXT-X-STREAM-INF:BANDWIDTH=1147048,AVERAGE-BANDWIDTH=1147048,RESOLUTION=640x360,AUDIO="audiod",SUBTITLES="subs"
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="-1" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_158830569489.png?w=282&mode=scale", Cinemax
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="-1" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_158830569489.png?w=282&mode=scale", Cinemax_ASIA
 #EXT-X-STREAM-INF:BANDWIDTH=1147048,AVERAGE-BANDWIDTH=1147048,RESOLUTION=640x360,AUDIO="audiod",SUBTITLES="subs"
@@ -489,6 +488,11 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 http://gg.gg/Box_Movie
 
 #EXTINF:-1 tvg-id="Hollywood Classics" group-title="Kênh Quốc Tế" tvg-logo="https://static-stage.tv24.vn/channel/246/Hollywood_new.jpg", Hollywood Classic
-http://vtsstr1.tv24.vn:1935/live/Hollywood.smil/chunklist_w1491164742_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+http://gg.gg/_Hollywood_Classic_
 
+#EXTINF:-1 tvg-id="KPop TV" group-title="Kênh Quốc Tế" tvg-logo="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM.jpg", KPop TV
+http://gg.gg/_KPop_TV
 
+#EXTINF:-1 tvg-id="KPop TV" group-title="Kênh Quốc Tế" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTbiF7I0epQxxFxz6zLguEq1CbjstF8groKAlNZ=s88-c-k-c0x00ffffff-no-rj", Music Box
+http://gg.gg/_Music_Box_
+http://gg.gg/_Hollywood_Classic_
