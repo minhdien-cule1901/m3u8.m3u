@@ -460,13 +460,13 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Kênh Quốc Tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068769029.png", Planet Earth HD
 http://gg.gg/_Planet_Earth_
 
-#EXTINF:0 tvg-id="outdoor_channel" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg?w=282&mode=scale", Outdoor Channel
+#EXTINF:0 tvg-id="outdoorhd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg?w=282&mode=scale", Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="tlc" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg?w=282&mode=scale", TLC
+#EXTINF:0 tvg-id="tlchd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg?w=282&mode=scale", TLC
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 tvg-id="warner_tv_hd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png?w=282&mode=scale", Warner TV
+#EXTINF:0 tvg-id="warnertvhd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_warner-tv_146581284899.png?w=282&mode=scale", Warner TV
 https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="paramouthd" group-title="Kênh Quốc Tế" tvg-logo="https://img.hplus.com.vn/460x260/poster/2020/08/03/744316-Paramount-xanh-fix.png", Paramount
