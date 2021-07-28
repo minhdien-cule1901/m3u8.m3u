@@ -457,8 +457,8 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 https://livecdn.fptplay.net/hda1/hbo_1000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="-1" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_158830569489.png?w=282&mode=scale", Cinemax
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Kênh Quốc Tế" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg", Box Movie
-http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist_w731780655_b2692000.m3u8
+http://vtsstr1.tv24.vn:1935/live/BOX_MOVIE_HD.smil/chunklist.m3u8
