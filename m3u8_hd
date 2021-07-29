@@ -77,50 +77,51 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 http://gg.gg/_vtvcab1_hd
 
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/180/vtvcab2-PhimViet.png", VTVCab2
-http://gg.gg/_vtvcab2_sd
+#http://gg.gg/_vtvcab2_sd
 
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/BONG_DA_TV_SD_M.jpg" type="stream",VTVCab3
-http://gg.gg/_vtvcab3_hd
+#http://gg.gg/_vtvcab3_hd
 
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/228/vtvcab4-VH.jpg", VTVCab4
-http://gg.gg/_vtvcab4_hd
+#http://gg.gg/_vtvcab4_hd
 
 
 #EXTINF:0 tvg-id="vtvcab5hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/181/vtvcab5-EChannel.png", VTVCab5
-http://gg.gg/_vtvcab5_hd
-
+#http://gg.gg/_vtvcab5_hd
 
 #EXTINF:0 tvg-id="vtvcab6hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/182/VTVcab6-HAYTV.png", VTVCab6
-http://gg.gg/_vtvcab6_hd
+#http://gg.gg/_vtvcab6_hd
 
 
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/238/VTVcab7.jpg", VTVCab7
-http://gg.gg/_vtvcab7_hd
-
+#http://gg.gg/_vtvcab7_hd
 
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/236/vtvcab8-BiBiTV.png", VTVCab8
-http://gg.gg/_vtvcab8_hd
+#http://gg.gg/_vtvcab8_hd
 
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/234/VTVcab9-INFOTV.png", VTVCab9
-http://gg.gg/_vtvcab9_hd
+#http://gg.gg/_vtvcab9_hd
 
 #EXTINF:0 tvg-id="vtvcab7hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/175/VTVcab10-VieDramas.jpg", VTVCab10
-http://gg.gg/_vtvcab10_hd
+#http://gg.gg/_vtvcab10_hd
 
 #EXTINF:0 tvg-id="vtvcab12hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/176/VTVcab12-STYLETV.png", VTVCab12
-http://gg.gg/_vtvcab12_hd
+#http://gg.gg/_vtvcab12_hd
 
 #EXTINF:0 tvg-id="vtvcab15hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/178/VTVcab15-MChannel.png", VTVCab15
-http://gg.gg/_vtvcab15_hd
+#http://gg.gg/_vtvcab15_hd
+
+#EXTINF:0 tvg-id="vtvcab15hd" group-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/BONG_DA_TV_SD_M.jpg", VTVCab15
+#http://gg.gg/_vtvcab16_hd
 
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/186/vtvcab17-Yeah1TV.png", VTVCab17
-http://gg.gg/_vtvcab17_hd
+#http://gg.gg/_vtvcab17_hd
 
-#EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/232/vtvcab19-FilmTV.png", VTVCab19
+#EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/9BBC95BD-2BA6-4B98-B625-84587477FCC3j1.jpg", VTVCab19
 http://gg.gg/_vtvcab19_hd
 
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/230/vtvcab20-VFamily.png", VTVCab20
-http://gg.gg/_vtvcab20_hd
+#http://gg.gg/_vtvcab20_hd
 
 #EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/85/logo26072108_sctv1-hd.png", SCTV1
 http://gg.gg/_sctv01_hd
