@@ -78,6 +78,7 @@ http://gg.gg/_vtvcab1_hd
 
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/180/vtvcab2-PhimViet.png", VTVCab2
 #http://gg.gg/_vtvcab2_sd
+https://112.197.12.61/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/BONG_DA_TV_SD_M.jpg" type="stream",VTVCab3
 #http://gg.gg/_vtvcab3_hd
