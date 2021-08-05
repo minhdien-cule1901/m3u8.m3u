@@ -85,7 +85,7 @@ https://112.197.12.61/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/228/vtvcab4-VH.jpg", VTVCab4
 #http://gg.gg/_vtvcab4_hd
-
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="vtvcab5hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/181/vtvcab5-EChannel.png", VTVCab5
 #http://gg.gg/_vtvcab5_hd
