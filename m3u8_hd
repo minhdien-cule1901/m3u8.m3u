@@ -149,7 +149,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/sctv11/sd1/index.m3u8|Referer=http://s
 https://e2.endpoint.cdn.sctvonline.vn/hls/sctv12/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/114/logo26072108_sctv13-hd.png", SCTV13
-https://e2.endpoint.cdn.sctvonline.vn/hls/sctv13/sd1/index.m3u8|Referer=http://sctvonline.vn/
+https://e2.endpoint.cdn.sctvonline.vn/hls/sctv13/sd1/index.m3u8|Referer=https://sctvonline.vn/
 
 #EXTINF:0 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/84/logo26072108_sctv14-hd.png", SCTV14
 https://e2.endpoint.cdn.sctvonline.vn/hls/sctv14/sd1/index.m3u8|Referer=http://sctvonline.vn/
