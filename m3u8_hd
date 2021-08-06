@@ -81,10 +81,9 @@ http://gg.gg/_vtvcab1_hd
 https://112.197.12.61/hls/vtvcab2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/BONG_DA_TV_SD_M.jpg" type="stream",VTVCab3
-#http://gg.gg/_vtvcab3_hd
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab3/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/228/vtvcab4-VH.jpg", VTVCab4
-#http://gg.gg/_vtvcab4_hd
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="vtvcab5hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/181/vtvcab5-EChannel.png", VTVCab5
@@ -125,7 +124,7 @@ http://gg.gg/_vtvcab19_hd
 #http://gg.gg/_vtvcab20_hd
 
 #EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/85/logo26072108_sctv1-hd.png", SCTV1
-http://gg.gg/_sctv01_hd
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/2/logo26072108_sctv2-hd.png", SCTV2
 http://gg.gg/_sctv02_hd
