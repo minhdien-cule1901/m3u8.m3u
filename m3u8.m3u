@@ -380,7 +380,7 @@ https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="cinema_world_hd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_146580871725.png?w=282&mode=scale", Cinema World
-https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="da_vinci_kids" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png?w=282&mode=scale", Da Vinci
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist.m3u8
