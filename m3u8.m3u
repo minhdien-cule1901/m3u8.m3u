@@ -365,7 +365,7 @@ https://livecdn.fptplay.net/sdb/bbclifestyle_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda1/blueantent_hls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="blue_ant_extreme" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-extreme_154850781484.jpg?w=282&mode=scale", Blue Ant Extreme
-https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda1/blueantext_hls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_boomerang_152240335127.png?w=282&mode=scale", Boomerang
 https://livecdn.fptplay.net/hda3/boomerang_hls.smil/chunklist_b2500000.m3u8
