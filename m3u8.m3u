@@ -31,7 +31,7 @@ https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_151489100971.png?w=282&mode=scale" group-title="VTC", VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc3" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_151489102133.png?w=282&mode=scale" group-title="VTC", VTC3
-https://livecdn.fptplay.net/hda3/vtc3hd_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda1/vtc3hd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc4_yeah1_family" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_146312575079.png?w=282&mode=scale" group-title="VTC", VTC4
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc5" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc5_150226870197.jpg?w=282&mode=scale" group-title="VTC", VTC5
