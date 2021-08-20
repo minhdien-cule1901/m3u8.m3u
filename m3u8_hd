@@ -119,7 +119,7 @@ http://gg.gg/_vtvcab17_hd|Referer=http://sctvonline.vn/
 http://gg.gg/_vtvcab19_hd
 
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/230/vtvcab20-VFamily.png", VTVCab20
-http://gg.gg/_vtvcab20_hd
+http://gg.gg/_vtvcab20_hd|Referer=https://sctvonline.vn/
 
 #EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/85/logo26072108_sctv1-hd.png", SCTV1
 http://gg.gg/_sctv01_hd|Referer=https://sctvonline.vn/
