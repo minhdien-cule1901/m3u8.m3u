@@ -215,16 +215,16 @@ http://gg.gg/_htv_the_thao
 https://livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-gia-dinh_156420342184.jpg?w=282&mode=scale" group-title="HTV", Gia Đình
-https://livecdn.fptplay.net/sdb/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-phu-nu_150055168062.jpg?w=282&mode=scale" group-title="HTV", Phụ Nữ
-https://livecdn.fptplay.net/sdb/htvcphunu_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 type="stream" tvg-id="htvcthuanviet" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-sd_150055171588.jpg?w=282&mode=scale" group-title="HTV", Thuần Việt
 http://gg.gg/_htv_giadinh_hd
 
-#EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_150055170596.jpg?w=282&mode=scale" group-title="HTV", Thuần Việt HD
+#EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-phu-nu_150055168062.jpg?w=282&mode=scale" group-title="HTV", Phụ Nữ
 http://gg.gg/_htv_phunu_hd
+
+#EXTINF:-1 type="stream" tvg-id="htvcthuanviet" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-sd_150055171588.jpg?w=282&mode=scale" group-title="HTV", Thuần Việt
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_150055170596.jpg?w=282&mode=scale" group-title="HTV", Thuần Việt HD
+https://livecdn.fptplay.net/hda1/htvcthuanviethd_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-ca-nhac_159175079096.png?w=282&mode=scale" group-title="HTV", HTVC CA NHAC
 http://gg.gg/_htv_canhac_hd
