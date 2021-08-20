@@ -170,7 +170,7 @@ http://gg.gg/_sctv16_hd|Referer=https://sctvonline.vn/
 http://gg.gg/_sctv17_hd|Referer=https://sctvonline.vn/
 
 #EXTINF:0 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/164/logo26072108_sctv18-hd.png", SCTV18
-https://gg.gg/_sctv18_hd|Referer=https://sctvonline.vn/
+http://gg.gg/_sctv18_hd|Referer=https://sctvonline.vn/
 
 #EXTINF:0 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/222/logo26072108_sctv19-hd.png", SCTV19
 http://gg.gg/_sctv19_hd|Referer=https://sctvonline.vn/
