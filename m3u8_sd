@@ -1,8 +1,24 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="vtv1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg?w=282&mode=scale" group-title="VTV", VTV1
-#EXTGRP: VTV
-https://vieon.vn/truyen-hinh-truc-tuyen/vtv1-hd/|Referer=https://vieon.vn/
+http://drfamaga5qliv.vcdn.cloud/vtv01/index.m3u8
 
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_157355881109.jpg?w=282&mode=scale" group-title="VTC", VTC1
-https://vieon.vn/truyen-hinh-truc-tuyen/vtc1-hd/|Referer=https://vieon.vn/
+https://vtc130121.cdn.vnns.io/VTC1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_157355881109.jpg?w=282&mode=scale" group-title="VTC", VTC1
+http://gg.gg/_vtc1_hd
+
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thvl1_156455587276.jpg?w=282&mode=scale", THVL1
+https://live-vthcm.vieon.vn/htv_drm/live/thvl1/playlist.m3u8
+
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_15645558841.jpg?w=282&mode=scale", THVL2
+https://live-vthcm.vieon.vn/htv_drm/live/thvl2/playlist.m3u8
+
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-3_156455588941.jpg?w=282&mode=scale", THVL3
+https://live-vthcm.vieon.vn/htv_drm/live/thvl3/playlist.m3u8
+
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-4-hd_158382617523.png?w=282&mode=scale", THVL4
+https://live-vthcm.vieon.vn/htv_drm/live/thvl4/playlist.m3u8
+
 
