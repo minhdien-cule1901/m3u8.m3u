@@ -1,39 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="vtv1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg?w=282&mode=scale" group-title="VTV", VTV1
 #EXTGRP: VTV
-https://web-livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b1750000.m3u8
+https://vieon.vn/truyen-hinh-truc-tuyen/vtv1-hd/|Referer=https://vieon.vn/
 
-#EXTINF:0 tvg-id="vtvcab6" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/182/VTVcab6-HAYTV.png", VTVCab6
-#EXTGRP: VTVCAB
-http://gg.gg/_vtvcab6_hd
+#EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_157355881109.jpg?w=282&mode=scale" group-title="VTC", VTC1
+https://vieon.vn/truyen-hinh-truc-tuyen/vtc1-hd/|Referer=https://vieon.vn/
 
-
-
-
-#EXTINF:0 tvg-id="sctv6_hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/16/logo26072108_sctv6-hd.png", SCTV6
-#EXTGRP: SCTV
-http://gg.gg/_sctv6_hd
-
-#EXTINF:0 tvg-id="sctv7_hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/107/logo26072108_sctv7-hd.png", SCTV7
-#EXTGRP: SCTV
-http://gg.gg/_sctv7_hd
-
-#EXTINF:0 tvg-id="sctv9" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944648887.png", SCTV9
-http://gg.gg/_sctv9_hd
-
-#EXTINF:0 tvg-id="sctv11_tv_star" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/130/logo26072108_sctv11-hd.png", SCTV11
-#EXTGRP: SCTV
-http://gg.gg/_sctv11_hd
-
-#EXTINF:0 tvg-id="sctv12" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/17/logo26072108_sctv12-hd.png", SCTV12
-#EXTGRP: SCTV
-http://gg.gg/_sctv12_hd
-
-
-#EXTINF:-1 tvg-id="-1" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png?w=282&mode=scale", HBO
-#EXT-X-STREAM-INF:FRAME-RATE-25.00
-https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 tvg-id="-1" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_158830569489.png?w=282&mode=scale", Cinemax
-#EXT-X-STREAM-INF:FRAME-RATE-25.00
-https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
