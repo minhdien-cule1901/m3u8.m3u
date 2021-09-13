@@ -223,7 +223,7 @@ http://gg.gg/_htv_phunu_hd
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_150055170596.jpg?w=282&mode=scale" group-title="HTV", Thuần Việt HD
-https://livecdn.fptplay.net/hda1/htvcthuanviethd_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-ca-nhac_159175079096.png?w=282&mode=scale" group-title="HTV", HTVC CA NHAC
 http://gg.gg/_htv_canhac_hd
@@ -253,7 +253,7 @@ https://livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-4-hd_158382617523.png?w=282&mode=scale", THVL4
-https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="binhduong1" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-1_156455530625.jpg?w=282&mode=scale", Bình Dương 1
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
