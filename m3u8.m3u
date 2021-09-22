@@ -403,7 +403,7 @@ https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda2/cinemawork_hls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="davinci" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png?w=282&mode=scale", Da Vinci
-https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda2/davincihd_hls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="discoveryhd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery_157259072379.png?w=282&mode=scale", Discovery
 https://livecdn.fptplay.net/hda2/discovery_hls.smil/chunklist.m3u8
