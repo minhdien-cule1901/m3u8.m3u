@@ -446,7 +446,7 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist.m3u8
 
 
 #EXTINF:0 tvg-id="outdoorhd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg?w=282&mode=scale", Outdoor Channel
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda1/outdoorfhd_hls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="tlchd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_travel-living_156455581568.jpg?w=282&mode=scale", TLC
 https://livecdn.fptplay.net/hda2/travelliving_hls.smil/chunklist.m3u8
