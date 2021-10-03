@@ -427,7 +427,11 @@ https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="ngchd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_national-geographic-hd_156455553777.jpg?w=282&mode=scale", National Geographic
-#https://vips-livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="natgeowild" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_national-geographic-hd_156455553777.jpg?w=282&mode=scale", National Geographic
+https://vips-livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Kênh Quốc Tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068769029.png", Planet Earth HD
 http://gg.gg/_Planet_Earth_|Referer=https://sctvonline.vn/
