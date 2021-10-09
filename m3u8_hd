@@ -223,7 +223,7 @@ http://gg.gg/_htv_phunu_hd
 https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_150055170596.jpg?w=282&mode=scale" group-title="HTV", Thuần Việt HD
-https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-ca-nhac_159175079096.png?w=282&mode=scale" group-title="HTV", HTVC CA NHAC
 http://gg.gg/_htv_canhac_hd
