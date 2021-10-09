@@ -220,7 +220,7 @@ http://gg.gg/_htv_giadinh_hd
 http://gg.gg/_htv_phunu_hd
 
 #EXTINF:-1 type="stream" tvg-id="htvcthuanviet" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-sd_150055171588.jpg?w=282&mode=scale" group-title="HTV", Thuần Việt
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_150055170596.jpg?w=282&mode=scale" group-title="HTV", Thuần Việt HD
 https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist.m3u8
@@ -232,7 +232,7 @@ http://gg.gg/_htv_canhac_hd
 http://gg.gg/_htvc_plus_hd
 
 #EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_150055164332.jpg?w=282&mode=scale" group-title="HTV", Du Lịch và Cuộc Sống
-https://vips-livecdn.fptplay.net/sdb/htvcdulich_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcdulich_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcfbnc" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg?w=282&mode=scale" group-title="HTV", FBNC
 https://vips-livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist.m3u8
