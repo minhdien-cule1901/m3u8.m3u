@@ -398,7 +398,6 @@ https://vips-livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="happykids" group-title="Cartoon Kids" tvg-logo="https://static-stage.tv24.vn/channel/247/Kids_new.jpg", Happy Kids
-#http://gg.gg/_Happy_Kids_|Referer=https://sctvonline.vn/
 http://gg.gg/_happykis_hls_hd
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="Cartoon Kids" tvg-logo="https://p.kindpng.com/picc/s/73-731408_dreamworks-animation-logo-png-transparent-png.png", DreamWorks
@@ -431,11 +430,10 @@ https://vips-livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="ngchd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_national-geographic-hd_156455553777.jpg?w=282&mode=scale", National Geographic
 https://vips-livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="natgeowild" group-title="Kênh Quốc Tế" tvg-logo="https://bitly.com.vn/ussplw", Nat Geo Wild
+#EXTINF:0 tvg-id="natgeowild" group-title="Kênh Quốc Tế" tvg-logo="https://nationalgeographicpartners.com/app/uploads/2020/11/nat-geo-wild-3.jpg", Nat Geo Wild
 https://vips-livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Kênh Quốc Tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068769029.png", Planet Earth HD
-#http://gg.gg/_Planet_Earth_|Referer=https://sctvonline.vn/
 http://gg.gg/_planetearth_hls_hd
 
 #EXTINF:0 tvg-id="outdoorhd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg?w=282&mode=scale", Outdoor Channel
@@ -460,7 +458,6 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b2500000.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Kênh Quốc Tế" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg",Box Movie 1
-#http://gg.gg/_boxmovie_hd|Referer=https://sctvonline.vn/
 http://gg.gg/_boxmovie_hls_hd
 
 #EXTINF:-1 tvg-id="boxhits" group-title="Kênh Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/boxHit_Thumbnail_480x2701.jpg", Box Hits
