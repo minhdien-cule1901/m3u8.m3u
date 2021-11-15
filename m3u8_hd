@@ -458,7 +458,7 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b2500000.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Kênh Quốc Tế" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg",Box Movie 1
-http://gg.gg/_boxmovie_hls_hd
+https://8387100975.vws.vegacdn.vn/live/box-movie/playlist.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="Kênh Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/boxHit_Thumbnail_480x2701.jpg", Box Hits
 http://gg.gg/_boxhits_hls_hd
