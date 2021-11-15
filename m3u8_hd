@@ -463,7 +463,7 @@ https://8387100975.vws.vegacdn.vn/live/box-movie/playlist.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="Kênh Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/boxHit_Thumbnail_480x2701.jpg", Box Hits
 http://gg.gg/_boxhits_hls_hd
 
-#EXTINF:-1 tvg-id="boxhits" group-title="Kênh Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/IntheBox_480x2701j1.jpg", In The Box Channels
+#EXTINF:-1 tvg-id="inthebox" group-title="Kênh Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/IntheBox_480x2701j1.jpg", In The Box Channels
 http://gg.gg/_inthebox_hls_hd
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Kênh Quốc Tế" tvg-logo="https://static-stage.tv24.vn/channel/246/Hollywood_new.jpg", Hollywood Classic
