@@ -473,9 +473,9 @@ http://gg.gg/_boxmovie_hd|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Kênh Quốc Tế" tvg-logo="https://static-stage.tv24.vn/channel/246/Hollywood_new.jpg", Hollywood Classic
 http://gg.gg/_Hollywood_Classic_|Referer=https://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="boxhits" group-title="Kênh Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/boxHit_Thumbnail_480x2701.jpg", Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="Kênh Quốc Tế" tvg-logo="https://8387a88d1b.vws.vegacdn.vn/Media/files/channels/poster_1626834088channel3_BoxHit.png?width=500&height=300&type=resize&ver=6", Box Hits
 http://gg.gg/_boxhits_hls_hd
 
-#EXTINF:-1 tvg-id="inthebox" group-title="Kênh Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/IntheBox_480x2701j1.jpg", In The Box Channels
+#EXTINF:-1 tvg-id="inthebox" group-title="Kênh Quốc Tế" tvg-logo="https://8387a88d1b.vws.vegacdn.vn/Media/files/channels/poster_1623926686c_BOX%20W.png?width=500&height=300&type=resize&ver=6", Box Channels
 http://gg.gg/_inthebox_hls_hd
 
