@@ -136,7 +136,7 @@ http://gg.gg/_sctv4_hd|Referer=https://sctvonline.vn/
 http://gg.gg/_sctv05_hd|Referer=https://sctvonline.vn/
 
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/16/logo26072108_sctv6-hd.png", SCTV6
-http://gg.gg/_sctv6_hd|Referer=https://sctvonline.vn/
+https://vips-livecdn.fptplay.net/hda3/film360_hls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/107/logo26072108_sctv7-hd.png", SCTV7
 http://gg.gg/_sctv7_hd|Referer=https://sctvonline.vn/
@@ -459,11 +459,9 @@ https://livecdn.fptplay.net/hda3/warnertv_hls.smil/chunklist.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hbohd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_155834899497.png?w=282&mode=scale", HBO
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_158830569489.png?w=282&mode=scale", Cinemax
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Kênh Quốc Tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068769029.png", Planet Earth HD
@@ -474,3 +472,10 @@ http://gg.gg/_boxmovie_hd|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Kênh Quốc Tế" tvg-logo="https://static-stage.tv24.vn/channel/246/Hollywood_new.jpg", Hollywood Classic
 http://gg.gg/_Hollywood_Classic_|Referer=https://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="boxhits" group-title="Kênh Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/boxHit_Thumbnail_480x2701.jpg", Box Hits
+http://gg.gg/_boxhits_hls_hd
+
+#EXTINF:-1 tvg-id="inthebox" group-title="Kênh Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/IntheBox_480x2701j1.jpg", In The Box Channels
+http://gg.gg/_inthebox_hls_hd
+
