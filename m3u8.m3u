@@ -415,29 +415,8 @@ https://livecdn.fptplay.net/hda2/discoveryasia_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="fashionhd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fashion-tv_146580821688.png?w=282&mode=scale", Fashion TV
 https://livecdn.fptplay.net/hda2/fashiontvhd_hls.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="foxfamilymovieshd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-family-movies_155013312413.jpg?w=282&mode=scale", Fox Family Movies
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-
-#EXTINF:0 tvg-id="foxhd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-hd_152238767588.png?w=282&mode=scale", Fox HD
-#https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist.m3u8
-
-#EXTINF:0 tvg-id="foxlifehd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png?w=282&mode=scale", Fox Life
-#https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
-
-#EXTINF:0 tvg-id="foxmovieshd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-movies_152238665778.png?w=282&mode=scale", Fox Movies
-#https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
-
-#EXTINF:0 tvg-id="foxsportshd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-hd_148403939056.jpg?w=282&mode=scale", Fox Sports
-https://livecdn.fptplay.net/hda2/foxsports_hls.smil/chunklist.m3u8
-
-#EXTINF:0 tvg-id="foxsports2hd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-2_148654612771.jpg?w=282&mode=scale", Fox Sports 2
-https://livecdn.fptplay.net/hda3/foxsports2_hls.smil/chunklist.m3u8
-
-#EXTINF:0 tvg-id="foxsports3hd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-sports-3_152332595656.png?w=282&mode=scale", Fox Sports 3
-https://livecdn.fptplay.net/hda2/foxsports3_hls.smil/chunklist.m3u8
-
 #EXTINF:0 tvg-id="kbsworld" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_145931294803.jpg?w=282&mode=scale", KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda3/kbs_hls.smil/chunklist.m3u8
 
 #EXTINF:0 tvg-id="kix" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png?w=282&mode=scale", KIX HD
 https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist.m3u8
