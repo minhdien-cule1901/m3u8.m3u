@@ -16,8 +16,8 @@ https://livecdn.fptplay.net/hda1/vtv4_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda2/vtv5hd_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv6-hd_150173503925.jpg?w=282&mode=scale" group-title="VTV", VTV6
-#https://livecdn.fptplay.net/hda1/vtv6hd_hls.smil/chunklist.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv06/index.m3u8
+https://livecdn.fptplay.net/hda1/vtv6hd_hls.smil/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv7-hd_158530348557.png?w=282&mode=scale" group-title="VTV", VTV7
 https://livecdn.fptplay.net/hda3/vtv7hd_hls.smil/chunklist.m3u8
