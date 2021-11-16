@@ -422,7 +422,7 @@ https://vips-livecdn.fptplay.net/hda2/discoveryasia_hls.smil/chunklist_b2500000.
 https://vips-livecdn.fptplay.net/hda2/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="kbsworld" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_145931294803.jpg?w=282&mode=scale", KBS World
-https://vips-livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/kbs_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="kix" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_152879800963.png?w=282&mode=scale", KIX HD
 https://vips-livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
