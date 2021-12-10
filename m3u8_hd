@@ -398,7 +398,7 @@ https://vips-livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="happykids" group-title="Cartoon Kids" tvg-logo="https://static-stage.tv24.vn/channel/247/Kids_new.jpg", Happy Kids
-http://gg.gg/_happykids_hls_hd
+http://gg.gg/_happykids_hd|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="Cartoon Kids" tvg-logo="https://p.kindpng.com/picc/s/73-731408_dreamworks-animation-logo-png-transparent-png.png", DreamWorks
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b2500000.m3u8
@@ -434,7 +434,7 @@ https://vips-livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist.m3u8
 https://vips-livecdn.fptplay.net/hda3/natgeowild_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Kênh Quốc Tế" tvg-logo="https://rsstv.gviet.vn/sctv/157/707/1567068769029.png", Planet Earth HD
-http://gg.gg/_planetearth_hls_hd
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd1/index.m3u8|Referer=https://sctvonline.vn/
 
 #EXTINF:0 tvg-id="outdoorhd" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_156456021259.jpg?w=282&mode=scale", Outdoor Channel
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
@@ -458,16 +458,16 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b2500000.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Kênh Quốc Tế" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg",Box Movie 1
-https://8387100975.vws.vegacdn.vn/live/box-movie/playlist.m3u8
+http://gg.gg/_boxmovie_hd|Referer=https://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Kênh Quốc Tế" tvg-logo="https://static-stage.tv24.vn/channel/246/Hollywood_new.jpg", Hollywood Classic
+http://gg.gg/_Hollywood_Classic_|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="boxhits" group-title="Kênh Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/boxHit_Thumbnail_480x2701.jpg", Box Hits
 http://gg.gg/_boxhits_hls_hd
 
 #EXTINF:-1 tvg-id="inthebox" group-title="Kênh Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/IntheBox_480x2701j1.jpg", In The Box Channels
 http://gg.gg/_inthebox_hls_hd
-
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Kênh Quốc Tế" tvg-logo="https://static-stage.tv24.vn/channel/246/Hollywood_new.jpg", Hollywood Classic
-http://gg.gg/_Hollywood_Classic_|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="KPop TV" group-title="Kênh Quốc Tế" tvg-logo="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM.jpg", KPop TV
 #http://gg.gg/_KPop_TV
