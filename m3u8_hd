@@ -137,7 +137,7 @@ http://gg.gg/_sctv4_hd|Referer=https://sctvonline.vn/
 http://gg.gg/_sctv05_hd|Referer=https://sctvonline.vn/
 
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/16/logo26072108_sctv6-hd.png", SCTV6
-https://vips-livecdn.fptplay.net/hda3/film360_hls.smil/chunklist.m3u8
+http://gg.gg/_sctv6_hd|Referer=https://sctvonline.vn/
 
 #EXTINF:0 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/107/logo26072108_sctv7-hd.png", SCTV7
 http://gg.gg/_sctv7_hd|Referer=https://sctvonline.vn/
