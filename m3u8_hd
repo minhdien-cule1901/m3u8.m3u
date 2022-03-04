@@ -209,16 +209,16 @@ https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_156455550438.jpg?w=282&mode=scale" group-title="HTV", HTV Thể Thao
-http://gg.gg/_htv_the_thao
+https://livecdn.fptplay.net/hda3/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_paramount-channel-vietnam_153613137177.png?w=282&mode=scale" group-title="HTV", HTVC Phim
 https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-gia-dinh_156420342184.jpg?w=282&mode=scale" group-title="HTV", Gia Đình
-http://gg.gg/_htv_giadinh_hd
+https://livecdn.fptplay.net/hda3/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-phu-nu_150055168062.jpg?w=282&mode=scale" group-title="HTV", Phụ Nữ
-http://gg.gg/_htv_phunu_hd
+https://livecdn.fptplay.net/hda3/htvcphunu_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 type="stream" tvg-id="htvcthuanviet" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-sd_150055171588.jpg?w=282&mode=scale" group-title="HTV", Thuần Việt
 https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_hls.smil/chunklist.m3u8
@@ -227,13 +227,13 @@ https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_hls.smil/chunklist.m3u8
 https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-ca-nhac_159175079096.png?w=282&mode=scale" group-title="HTV", HTVC CA NHAC
-http://gg.gg/_htv_canhac_hd
+https://livecdn.fptplay.net/hda3/htvcmusic_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png?w=282&mode=scale" group-title="HTV", HTVC+
-http://gg.gg/_htvc_plus_hd
+https://livecdn.fptplay.net/hda3/htvcplus_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_150055164332.jpg?w=282&mode=scale" group-title="HTV", Du Lịch và Cuộc Sống
-https://vips-livecdn.fptplay.net/hda3/htvcdulich_hls.smil/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcdulich_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htvcfbnc" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg?w=282&mode=scale" group-title="HTV", FBNC
 https://vips-livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist.m3u8
