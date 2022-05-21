@@ -74,7 +74,7 @@ https://vips-livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist.m3u8
 https://vips-livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVCAB" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/47_40cd7330.jpg?width=426", VTVCab1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Mobile Safari/537.36"
+#EXTVLCOPT:http-user-agent="mpv"
 http://gg.gg/_vtvcab1_hd
 
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/180/vtvcab2-PhimViet.png", VTVCab2
@@ -117,8 +117,7 @@ http://gg.gg/_vtvcab16_hd|Referer=http://sctvonline.vn/
 http://gg.gg/_vtvcab17_hd|Referer=http://sctvonline.vn/
 
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/9BBC95BD-2BA6-4B98-B625-84587477FCC3j1.jpg", VTVCab19
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Mobile Safari/537.36"
-http://gg.gg/_vtvcab19_hd
+http://gg.gg/_vtvcab19_hd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0
 
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/230/vtvcab20-VFamily.png", VTVCab20
 http://gg.gg/_vtvcab20_hd|Referer=https://sctvonline.vn/
