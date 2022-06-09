@@ -214,13 +214,13 @@ https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda2/htvcmoviehd_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-gia-dinh_156420342184.jpg?w=282&mode=scale" group-title="HTV", Gia Đình
-https://livecdn.fptplay.net/sdb/htvcgiadinh_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda3/htvcgiadinh_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-phu-nu_150055168062.jpg?w=282&mode=scale" group-title="HTV", Phụ Nữ
-https://livecdn.fptplay.net/sdb/htvcphunu_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda3/htvcphunu_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviet" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-sd_150055171588.jpg?w=282&mode=scale" group-title="HTV", Thuần Việt
-https://livecdn.fptplay.net/sdb/htvcthuanviet_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_150055170596.jpg?w=282&mode=scale" group-title="HTV", Thuần Việt HD
 https://livecdn.fptplay.net/hda1/htvcthuanviethd_hls.smil/chunklist.m3u8
@@ -451,9 +451,5 @@ http://gg.gg/_boxmovie_hd|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Kênh Quốc Tế" tvg-logo="https://static-stage.tv24.vn/channel/246/Hollywood_new.jpg", Hollywood Classic
 http://gg.gg/_Hollywood_Classic_|Referer=https://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="boxhits" group-title="Kênh Quốc Tế" tvg-logo="https://8387a88d1b.vws.vegacdn.vn/Media/files/channels/poster_1626834088channel3_BoxHit.png?width=500&height=300&type=resize&ver=6", Box Hits
-http://gg.gg/_boxhits_hls_hd
 
-#EXTINF:-1 tvg-id="inthebox" group-title="Kênh Quốc Tế" tvg-logo="https://8387a88d1b.vws.vegacdn.vn/Media/files/channels/poster_1623926686c_BOX%20W.png?width=500&height=300&type=resize&ver=6", Box Channels
-http://gg.gg/_inthebox_hls_hd
 
