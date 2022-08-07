@@ -236,7 +236,7 @@ https://livecdn.fptplay.net/hda3/htvcplus_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda3/htvcdulich_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="htvcfbnc" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg?w=282&mode=scale" group-title="HTV", FBNC
-https://vips-livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist.m3u8
+#https://vips-livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvc_coop" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv-coop_153320008724.png?w=282&mode=scale" group-title="HTV", HTV CO.OP
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-480p/chunks.m3u8
