@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/_epg_tv"
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg?w=282&mode=scale" group-title="VTV", VTV1
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist.m3u8
