@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/_epg_tv"
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg?w=282&mode=scale" group-title="VTV", VTV1
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
@@ -398,7 +398,7 @@ https://vips-livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="happykids" group-title="Cartoon Kids" tvg-logo="https://static-stage.tv24.vn/channel/247/Kids_new.jpg", Happy Kids
-http://gg.gg/_happykids_hd|Referer=https://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd1/index.m3u8|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="Cartoon Kids" tvg-logo="https://p.kindpng.com/picc/s/73-731408_dreamworks-animation-logo-png-transparent-png.png", DreamWorks
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b2500000.m3u8
@@ -458,16 +458,16 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b2500000.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Kênh Quốc Tế" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1564803736/cmc_new/img.live_channel/0/0/0/0/250.jpg",Box Movie 1
-http://gg.gg/_boxmovie_hd|Referer=https://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd1/index.m3u8|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Kênh Quốc Tế" tvg-logo="https://static-stage.tv24.vn/channel/246/Hollywood_new.jpg", Hollywood Classic
-http://gg.gg/_Hollywood_Classic_|Referer=https://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd1/index.m3u8|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="boxhits" group-title="Kênh Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/boxHit_Thumbnail_480x2701.jpg", Box Hits
-http://gg.gg/_boxhits_hls_hd
+#http://gg.gg/_boxhits_hls_hd
 
 #EXTINF:-1 tvg-id="inthebox" group-title="Kênh Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/IntheBox_480x2701j1.jpg", In The Box Channels
-http://gg.gg/_inthebox_hls_hd
+#http://gg.gg/_inthebox_hls_hd
 
 #EXTINF:-1 tvg-id="KPop TV" group-title="Kênh Quốc Tế" tvg-logo="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM.jpg", KPop TV
 #http://gg.gg/_KPop_TV
