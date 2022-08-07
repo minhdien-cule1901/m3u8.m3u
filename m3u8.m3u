@@ -230,7 +230,7 @@ https://livecdn.fptplay.net/hda1/htvcthuanviethd_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/sdb/htvcmusic_hls.smil/chunklist.m3u8?
 
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png?w=282&mode=scale" group-title="HTV", HTVC+
-https://livecdn.fptplay.net/sdb/htvcplus_hls.smil/chunklist.m3u8
+https://livecdn.fptplay.net/hda3/htvcplus_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcdulichhd"" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_150055164332.jpg?w=282&mode=scale" group-title="HTV", Du Lịch và Cuộc Sống
 https://livecdn.fptplay.net/sdb/htvcdulich_hls.smil/chunklist.m3u8
