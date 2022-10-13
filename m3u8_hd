@@ -464,10 +464,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd1/index.m3u8|Referer=https
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd1/index.m3u8|Referer=https://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="boxhits" group-title="Kênh Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/boxHit_Thumbnail_480x2701.jpg", Box Hits
-#http://gg.gg/_boxhits_hls_hd
+http://gg.gg/_boxhits_hls_hd
 
 #EXTINF:-1 tvg-id="inthebox" group-title="Kênh Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/IntheBox_480x2701j1.jpg", In The Box Channels
-#http://gg.gg/_inthebox_hls_hd
+http://gg.gg/_inthebox_hls_hd
 
-#EXTINF:-1 tvg-id="KPop TV" group-title="Kênh Quốc Tế" tvg-logo="https://pbs.twimg.com/profile_images/1210322485952024577/eB_Hg0RM.jpg", KPop TV
-#http://gg.gg/_KPop_TV
