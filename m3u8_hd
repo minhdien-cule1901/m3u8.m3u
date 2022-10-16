@@ -235,15 +235,6 @@ https://livecdn.fptplay.net/hda3/htvcplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_150055164332.jpg?w=282&mode=scale" group-title="HTV", Du Lịch và Cuộc Sống
 https://vips-livecdn.fptplay.net/hda3/htvcdulich_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="htvcfbnc" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg?w=282&mode=scale" group-title="HTV", FBNC
-#https://vips-livecdn.fptplay.net/sdc/fbnchd_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="htvc_coop" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv-coop_153320008724.png?w=282&mode=scale" group-title="HTV", HTV CO.OP
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-480p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="htvc_vgs_shop" tvg-logo="" group-title="HTV", HTVC VGS SHOP
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-480p/chunks.m3u8
-
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thvl1_156455587276.jpg?w=282&mode=scale", THVL1
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 
@@ -377,7 +368,7 @@ https://vips-livecdn.fptplay.net/hda1/babyfirst_hls.smil/chunklist_b2500000.m3u8
 https://vips-livecdn.fptplay.net/hda2/bbcearth_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="bbclifestyle" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg?w=282&mode=scale", BBC Lifestyle
-https://vips-livecdn.fptplay.net/sdb/bbclifestyle_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="blueantent" group-title="Kênh Quốc Tế" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_blue-ant-entertainment_154850587839.jpg?w=282&mode=scale", Blue Ant Entertainment
 https://vips-livecdn.fptplay.net/hda1/blueantent_hls.smil/chunklist_b2500000.m3u8
