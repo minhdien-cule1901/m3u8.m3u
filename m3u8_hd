@@ -477,6 +477,6 @@ http://gg.gg/_boxhits_hls_hd|User-agent=mpv
 #EXTINF:-1 tvg-id="inthebox" group-title="Kênh Quốc Tế" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/IntheBox_480x2701j1.jpg", In The Box Channels
 http://gg.gg/_inthebox_hls_hd|User-agent=Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0
 
-#EXTINF:-1 tvg-id="mnet" group-title="Kênh Quốc Tế" tvg-logo="https://t1.daumcdn.net/cfile/tistory/9929134E5D38D8FF", Mnet
+#EXTINF:-1 tvg-id="mnet" group-title="Kênh Quốc Tế" tvg-logo="https://file.tinnhac.com/resize/600x-/music/2017/06/10/listmnet-371e.png", Mnet
 http://gg.gg/_mnet_hd|User-agent=Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0
 
