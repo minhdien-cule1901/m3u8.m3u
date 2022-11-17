@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
+#EXTM3U url-tvg="http://trada.info/epg.xml"
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg?w=282&mode=scale" group-title="VTV", VTV1
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
@@ -478,5 +478,5 @@ http://gg.gg/_boxhits_hls_hd|User-agent=mpv
 http://gg.gg/_inthebox_hls_hd|User-agent=Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0
 
 #EXTINF:-1 tvg-id="mnet" group-title="Kênh Quốc Tế" tvg-logo="https://t1.daumcdn.net/cfile/tistory/9929134E5D38D8FF", Mnet
-http://gg.gg/mnet_hd|User-agent=Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0
+http://gg.gg/_mnet_hd|User-agent=Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0
 
