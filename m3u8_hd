@@ -74,75 +74,59 @@ https://vips-livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist.m3u8
 https://vips-livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVCAB" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/47_40cd7330.jpg?width=426", VTVCab1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://gg.gg/_vtvcab1_hd
+http://gg.gg/_vtvcab1_hd|user-agent=mpv
 
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/phimviet7.jpg", VTVCab2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://gg.gg/_vtvcab2_hls_hd
+http://gg.gg/_vtvcab2_hls_hd|user-agent=mpv
 
 #EXTINF:0 tvg-id="vtvcab3hd" group-title="VTVCAB" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/52_1f87421a.jpg" type="stream",VTVCab3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://gg.gg/_vtvcab3_hls_hd
+http://gg.gg/_vtvcab3_hls_hd|user-agent=mpv
 
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVCAB" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/85_f93fe183.jpg?width=426", VTVCab4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://gg.gg/_vtvcab4_hls_hd
+http://gg.gg/_vtvcab4_hls_hd|user-agent=mpv
 
 #EXTINF:0 tvg-id="vtvcab5hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/181/vtvcab5-EChannel.png", VTVCab5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://gg.gg/_vtvcab5_hls_hd
+http://gg.gg/_vtvcab5_hls_hd|user-agent=mpv
 
 #EXTINF:0 tvg-id="vtvcab6hd" group-title="VTVCAB" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/84_9b59e5ac.jpg?width=426", VTVCab6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://gg.gg/_vtvcab6_hls_hd
+http://gg.gg/_vtvcab6_hls_hd|user-agent=mpv
 
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="VTVCAB" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/48_3f74c6b4.jpg?width=426", VTVCab7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://gg.gg/_vtvcab7_hls_hd
+http://gg.gg/_vtvcab7_hls_hd|user-agent=mpv
 
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/236/vtvcab8-BiBiTV.png", VTVCab8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://gg.gg/_vtvcab8_hls_hd
+http://gg.gg/_vtvcab8_hls_hd|user-agent=mpv
 
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="VTVCAB" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/63_391deaab.jpg?width=426", VTVCab9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 http://gg.gg/_vtvcab9_hls_hd
 
 #EXTINF:0 tvg-id="vtvcab10hd" group-title="VTVCAB" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/86_69c22f6c.jpg?width=426", VTVCab10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://gg.gg/_vtvcab10_hls_hd
+http://gg.gg/_vtvcab10_hls_hd|user-agent=mpv
 
 #EXTINF:0 tvg-id="vtvcab12hd" group-title="VTVCAB" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/81_d710942b.jpg?width=426", VTVCab12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://gg.gg/_vtvcab12_hls_hd
+http://gg.gg/_vtvcab12_hls_hd|user-agent=mpv
 
 #EXTINF:0 tvg-id="vtvcab15hd" group-title="VTVCAB" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/50_8d553e5a.jpg?width=426", VTVCab15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://gg.gg/_vtvcab15_hls_hd
+http://gg.gg/_vtvcab15_hls_hd|user-agent=mpv
 
 #EXTINF:0 tvg-id="vtvcab16hd" group-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/tvshows/CBG2/BONG_DA_TV_SD_M.jpg", VTVCab16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://gg.gg/_vtvcab16_hls_hd
+http://gg.gg/_vtvcab16_hls_hd|user-agent=mpv
 
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/186/vtvcab17-Yeah1TV.png", VTVCab17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://gg.gg/_vtvcab17_hls_hd
+http://gg.gg/_vtvcab17_hls_hd|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 
 #EXTINF:0 tvg-id="vtvcab18hd" group-title="VTVCAB" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/83opzg6q_onsportnews6ae431366bc5fd7e0f22d4796e909d59_296_168.webp", VTVCab18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://gg.gg/_vtvcab18_hls_hd
+http://gg.gg/_vtvcab18_hls_hd|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCAB" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/9BBC95BD-2BA6-4B98-B625-84587477FCC3j1.jpg", VTVCab19
 http://gg.gg/_vtvcab19_hd|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="VTVCAB" tvg-logo="https://static-stage.tv24.vn/channel/230/vtvcab20-VFamily.png", VTVCab20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://gg.gg/_vtvcab20_hls_hd
+http://gg.gg/_vtvcab20_hls_hd|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 
 #EXTINF:0 tvg-id="vtvcab21hd" group-title="VTVCAB" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/kb5h2ftw_vtvcab21-cartoon-kid-thumb_296_168.webp", VTVCab21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-http://gg.gg/_vtvcab21_hls_hd
+http://gg.gg/_vtvcab21_hls_hd|user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
 
 #EXTINF:0 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://static-stage.tv24.vn/channel/85/logo26072108_sctv1-hd.png", SCTV1
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s1/index.m3u8|Referer=https://sctvonline.vn/
