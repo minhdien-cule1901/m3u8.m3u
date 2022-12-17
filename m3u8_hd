@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://trada.info/epg.xml"
 
-EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg?w=282&mode=scale" group-title="VTV", VTV1
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg?w=282&mode=scale" group-title="VTV", VTV1
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg?w=282&mode=scale" group-title="VTV", VTV2
