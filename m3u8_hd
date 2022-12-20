@@ -1,22 +1,22 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml"
+#EXTM3U url-tvg="http://gg.gg/epgvn03"
 
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg?w=282&mode=scale" group-title="VTV", VTV1
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg?w=282&mode=scale" group-title="VTV", VTV2
-https://livecdn.fptplay.net/sevent/vtv2_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda1/vtv2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv3-hd_150173501764.jpg?w=282&mode=scale" group-title="VTV", VTV3
-https://livecdn.fptplay.net/sevent/vtv3hd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda1/vtv3hd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv4_15089873636.jpg?w=282&mode=scale" group-title="VTV", VTV4
 https://livecdn.fptplay.net/hda1/vtv4_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv5-hd_150173503028.jpg?w=282&mode=scale" group-title="VTV", VTV5
-https://livecdn.fptplay.net/sevent/vtv5hd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/vtv5hd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/VTV_CT.png" group-title="VTV", VTV Cần Thơ
-https://livecdn.fptplay.net/sevent/vtvcantho_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda1/vtvcantho_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv7-hd_158530348557.png?w=282&mode=scale" group-title="VTV", VTV7
 https://livecdn.fptplay.net/hda3/vtv7hd_hls.smil/chunklist_b2500000.m3u8
