@@ -210,7 +210,7 @@ https://livecdn.fptplay.net/hda1/htv9hd_hls.smil/chunklist_b1800000.m3u8
 https://livecdn.fptplay.net/hda3/htvcthethao_hls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_paramount-channel-vietnam_153613137177.png?w=282&mode=scale" group-title="HTV", HTVC Phim
-https://livecdn.fptplay.net/hda2/htvcmoviehd_hls.smil/chunklist_b1800000.m3u8
+https://livecdn.fptplay.net/hda2/htvcmoviehd_hls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-gia-dinh_156420342184.jpg?w=282&mode=scale" group-title="HTV", Gia Đình
 https://livecdn.fptplay.net/hda3/htvcgiadinh_hls.smil/chunklist_b1800000.m3u8
