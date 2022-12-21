@@ -225,7 +225,7 @@ https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_hls.smil/chunklist_b1800000.
 https://livecdn.fptplay.net/hda1/htvcthuanviethd_hls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-ca-nhac_159175079096.png?w=282&mode=scale" group-title="HTV", HTVC CA NHAC
-https://livecdn.fptplay.net/sdb/htvcmusic_hls.smil/chunklist_b1800000.m3u8?
+https://livecdn.fptplay.net/hda3/htvcmusic_hls.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png?w=282&mode=scale" group-title="HTV", HTVC+
 https://livecdn.fptplay.net/hda3/htvcplus_hls.smil/chunklist_b1800000.m3u8
